@@ -54,16 +54,22 @@ The project includes a comprehensive suite of unit tests verifying the integrity
 
 ## 🚀 Getting Started & Execution
 
-1. **Prerequisites:** Ensure \g++\, \make\, and the \
-curses\ library are installed on your Linux/WSL environment.
+1. **Prerequisites:** Ensure \`g++\`, \`make\`, and the \`ncurses\` library are installed on your Linux/WSL environment.
 2. **Compilation:**
-   `ash
+   ```bash
    make
-Run the Application:Bash./sessions
-Run the Unit Tests:Bash./test
+Run the Application:
+
+Bash
+./sessions
+Run the Unit Tests:
+
+Bash
+./test
 ## 📝 Author & Academic Use
-Student: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
-Student ID: 2799
-Institution: University of Ioannina — Department of Informatics and Telecommunications
-Course: Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 3rd Semester Project
-This document is provided for academic reference and educational purposes.
+- **Student:** Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
+- **Student ID:** 2799
+- **Institution:** University of Ioannina — Department of Informatics and Telecommunications
+- **Course:** Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 2nd Semester Project
+
+*This document is provided for academic reference and educational purposes.*

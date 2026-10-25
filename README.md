@@ -1,7 +1,7 @@
 ﻿# Pomodoro Application (C++ OOP & IPC)
 
 [![University](https://img.shields.io/badge/University-University%20of%20Ioannina-blue.svg)](https://www.uoi.gr)
-[![Department](https://img.shields.io/badge/Department-Computer%20Science%20%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
+[![Department](https://img.shields.io/badge/Department-Informatics%20%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
 [![Language](https://img.shields.io/badge/Language-C++-blueviolet.svg)]()
 [![Library](https://img.shields.io/badge/Library-ncurses-orange.svg)]()
 

@@ -9,7 +9,6 @@
 **Διδάσκων:** Χρήστος Γκόγκος
 
 ## 📂 Δομή Αποθετηρίου (Branches)
-Το αποθετήριο είναι οργανωμένο σε branches. Αλλάξτε branch από το μενού του GitHub (πάνω αριστερά) για να δείτε τον κώδικα της αντίστοιχης εργασίας:
 * [Assignment1-pomodoro\](https://github.com/ntontouu/OOP/tree/assignment1-pomodoro): Εφαρμογή Pomodoro (1η Εργασία).
 * [Assignment2-jobshop\](https://github.com/ntontouu/OOP/tree/assignment2-jobshop): Προσομοιωτής Job Shop Scheduling (2η Εργασία).
 

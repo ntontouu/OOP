@@ -62,4 +62,8 @@ curses\ library are installed on your Linux/WSL environment.
 Run the Application:Bash./sessions
 Run the Unit Tests:Bash./test
 ## 📝 Author & Academic Use
-Student: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)Student ID: 2799Institution: University of Ioannina — Department of Computer Science and TelecommunicationsCourse: Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 3rd Semester ProjectThis document is provided for academic reference and educational purposes.
+Student: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
+Student ID: 2799
+Institution: University of Ioannina — Department of Informatics and Telecommunications
+Course: Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 3rd Semester Project
+This document is provided for academic reference and educational purposes.

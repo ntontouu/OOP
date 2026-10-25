@@ -58,18 +58,18 @@ The project includes a comprehensive suite of unit tests verifying the integrity
 2. **Compilation:**
    ```bash
    make
-Run the Application:
+**Run the Application:**
 
 Bash
 ./sessions
-Run the Unit Tests:
+**Run the Unit Tests:**
 
 Bash
 ./test
 ## 📝 Author & Academic Use
-- **Student:** Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
+- **Student:** Maria Alexandra Ntontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
 - **Student ID:** 2799
 - **Institution:** University of Ioannina — Department of Informatics and Telecommunications
-- **Course:** Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 2nd Semester Project
+- **Course:** Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 1nd Semester Project
 
 *This document is provided for academic reference and educational purposes.*

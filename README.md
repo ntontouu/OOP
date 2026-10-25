@@ -10,8 +10,8 @@
 
 ## 📂 Δομή Αποθετηρίου (Branches)
 Το αποθετήριο είναι οργανωμένο σε branches. Αλλάξτε branch από το μενού του GitHub (πάνω αριστερά) για να δείτε τον κώδικα της αντίστοιχης εργασίας:
-* [\assignment1-pomodoro\](https://github.com/ntontouu/OOP/tree/assignment1-pomodoro): Εφαρμογή Pomodoro (1η Εργασία).
-* [\assignment2-jobshop\](https://github.com/ntontouu/OOP/tree/assignment2-jobshop): Προσομοιωτής Job Shop Scheduling (2η Εργασία).
+* [Assignment1-pomodoro\](https://github.com/ntontouu/OOP/tree/assignment1-pomodoro): Εφαρμογή Pomodoro (1η Εργασία).
+* [Assignment2-jobshop\](https://github.com/ntontouu/OOP/tree/assignment2-jobshop): Προσομοιωτής Job Shop Scheduling (2η Εργασία).
 
 ## 📚 Ύλη & Θεωρία
 Το μάθημα καλύπτει τις εξής βασικές έννοιες της C++:

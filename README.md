@@ -1,7 +1,7 @@
 ﻿# Αντικειμενοστραφής Προγραμματισμός (OOP) με C++
 
 [![University](https://img.shields.io/badge/University-University%20of%20Ioannina-blue.svg)](https://www.uoi.gr)
-[![Department](https://img.shields.io/badge/Department-Informatics20%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
+[![Department](https://img.shields.io/badge/Department-Informatics%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
 [![Course](https://img.shields.io/badge/Course-eCourse-orange.svg)](http://ecourse.uoi.gr/course/view.php?id=1944)
 
 Αποθετήριο με τις εργασίες που αναπτύχθηκαν στα πλαίσια του μαθήματος "Αντικειμενοστραφής Προγραμματισμός (C++)" (Χειμερινό εξάμηνο 2026-2027) στο Τμήμα Πληροφορικής και Τηλεπικοινωνιών του Πανεπιστημίου Ιωαννίνων.

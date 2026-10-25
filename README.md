@@ -1,7 +1,7 @@
 ﻿# Pomodoro Application (C++ OOP & IPC)
 
 [![University](https://img.shields.io/badge/University-University%20of%20Ioannina-blue.svg)](https://www.uoi.gr)
-[![Department](https://img.shields.io/badge/Department-Computer%20Science%20%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
+[![Department](https://img.shields.io/badge/Department-Informatics%20%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
 [![Language](https://img.shields.io/badge/Language-C++-blueviolet.svg)]()
 [![Library](https://img.shields.io/badge/Library-ncurses-orange.svg)]()
 
@@ -61,4 +61,5 @@ curses\ library are installed on your Linux/WSL environment.
    make
 Run the Application:Bash./sessions
 Run the Unit Tests:Bash./test
-📝 Author & Academic UseStudent: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)Student ID: 2799Institution: University of Ioannina — Department of Computer Science and TelecommunicationsCourse: Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 3rd Semester ProjectThis document is provided for academic reference and educational purposes.
+## 📝 Author & Academic Use
+Student: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)Student ID: 2799Institution: University of Ioannina — Department of Computer Science and TelecommunicationsCourse: Object-Oriented Programming (Αντικειμενοστραφής Προγραμματισμός) — 3rd Semester ProjectThis document is provided for academic reference and educational purposes.

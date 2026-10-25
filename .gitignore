@@ -1,0 +1,7 @@
+*.o
+sessions
+test
+*.docx
+*.pdf
+*.zip
+.DS_Store
